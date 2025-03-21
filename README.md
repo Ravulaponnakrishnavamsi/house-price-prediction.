@@ -22,7 +22,7 @@ Before running the project, ensure you have the following installed:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/house-price-prediction.git
+   git clone https://github.com/Ravulaponnakrishnavamsi/house-price-prediction.git
    ```
 2. Navigate to the project directory:
    ```bash
