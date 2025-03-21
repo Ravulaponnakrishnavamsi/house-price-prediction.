@@ -72,11 +72,3 @@ Install them using:
 ```bash
 pip install numpy pandas scikit-learn matplotlib seaborn ploty streamlit
 ```
-
-
-### Notes
-- Replace Ravulaponnakrishnavamsi in the clone URL with your actual GitHub username.
-- If you have a specific dataset or additional features, update the "Dataset" and "Features" sections accordingly.
-- Add a `requirements.txt` file to your repo with the exact versions of the libraries if needed.
-
-Let me know if you'd like to refine this further!
