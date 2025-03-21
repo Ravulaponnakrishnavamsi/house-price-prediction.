@@ -1,18 +1,15 @@
-I assume you meant "README file" for your GitHub repository. Below is a sample README file tailored for your House Price Prediction project using Linear Regression. It includes sections for an overview, installation, usage, and more:
-
----
 
 # House Price Prediction Using Linear Regression
 
 ## Overview
-This project implements a house price prediction model using Linear Regression, a fundamental machine learning algorithm. The goal is to predict house prices based on features like square footage, number of bedrooms, location, and other relevant attributes. The project is built with Python and uses popular libraries such as Pandas, NumPy, and Scikit-learn.
+This project implements a house price prediction model using Linear Regression, a fundamental machine learning algorithm. The goal is to predict house prices based on size of the house. The project is built with Python and uses popular libraries such as Pandas, NumPy, and Scikit-learn.
 
 ## Features
 - Data preprocessing and cleaning
 - Exploratory data analysis (EDA) to understand feature relationships
 - Linear Regression model training and evaluation
 - Visualization of results using Matplotlib/Seaborn
-- streamlit for deployment
+- streamlit for frontend
 
 ## Prerequisites
 Before running the project, ensure you have the following installed:
